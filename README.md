@@ -8,8 +8,10 @@ Requisitos:
 - Generar cuenta de https://cloud.ibm.com/
 - Crear Servicio text-to-speech https://www.ibm.com/mx-es/cloud/watson-text-to-speech?utm_content=SRCWW&p1=Search&p4=43700052790840473&p5=e&gclid=Cj0KCQjwyOuYBhCGARIsAIdGQRMLJfoXt_SGaYn39QQ6LxFMo2UEDTu-cUVVwJ1jFU62HBuBbZCmN6waAvzTEALw_wcB&gclsrc=aw.ds
 
-Procedimiento de instalación LWC
+Procedimiento de instalación LWC  
+
 1.- Generamos un nuevo Proyecto y autorizamos nuestra organización con ayuda de la paleta de comandos de visual studio code, Ctrl + Shift + P.
+
 ![image](https://user-images.githubusercontent.com/86945047/195680384-44a8066d-7903-4102-8be9-ce1359c5e061.png)
 
 2.- Ya que hemos autorizado nuestra organización procedemos a pegar el archivo apodPackage.zip en nuestro directorio raíz del proyecto.
